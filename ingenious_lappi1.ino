@@ -32,5 +32,6 @@ void loop()
  digitalWrite(red,0);
  digitalWrite(green,1);
  delay(d);
- digitalWrite(green,0);     
+ digitalWrite(green,0);
+ delay(d);
 }
